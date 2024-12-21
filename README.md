@@ -1,4 +1,4 @@
-**Simon Says Game** 
+***Simon Says Game***
 
 This is a small interactive "Simon Says" game built using HTML, CSS, and JavaScript. The game tests your memory by presenting a sequence of colors that you must replicate. As you progress, the sequences become longer and more challenging.  
 
